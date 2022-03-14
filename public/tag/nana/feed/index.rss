@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Harringtons &#187; Nana</title>
+	<atom:link href="http://harringtonfam.com/tag/nana/feed/" rel="self" type="application/rss+xml" />
+	<link>http://harringtonfam.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 29 Jun 2018 15:23:52 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=3.9.36</generator>
+	<item>
+		<title>The Nana.</title>
+		<link>http://harringtonfam.com/2014/05/the-nana/</link>
+		<comments>http://harringtonfam.com/2014/05/the-nana/#comments</comments>
+		<pubDate>Fri, 09 May 2014 15:49:10 +0000</pubDate>
+		<dc:creator><![CDATA[Cara Harrington]]></dc:creator>
+				<category><![CDATA[Life]]></category>
+		<category><![CDATA[family]]></category>
+		<category><![CDATA[Nana]]></category>
+
+		<guid isPermaLink="false">http://harringtonfam.com/?p=274</guid>
+		<description><![CDATA[ <a class="read-more" href="http://harringtonfam.com/2014/05/the-nana/"></a>]]></description>
+				<content:encoded><![CDATA[<p>For all of you who know my Nana, you know she&#8217;s not just a regular nana&#8230;she&#8217;s THE Nana.  Some may call her Margaret, or Ita, but to us, she&#8217;s just Nana &#8211; which roughly translate to &#8220;greatest woman every born&#8221;.</p>
+<p>About 6 weeks ago, after saying goodbye to Cristin, Cyril, and Phelan as they left for Ireland, Nana suffered a stroke.  Thankfully, our uncle was home at the time and immediately got her to the hospital.  The first 48 hours that week were tough, the doctor&#8217;s gave us only grave possible outcomes and we all had to grapple with the idea that she may not recover.  These doctor&#8217;s obviously don&#8217;t know our Nana!</p>
+<p>After spending 2 weeks at St. Elizabeth&#8217;s Hospital, Nana was moved to Spaulding rehab to work on getting herself back to normal.  With a level of determination I imagine is on par with people who set out to climb Mt Everest or attempt to cure cancer, we have all seen her slowly and steadily improve.  First came small things like keeping her eyes open for longer periods of time, then she started joining the conversation more and more, and finally, as of my visit yesterday, she was up feeding herself lunch after a morning sailboat ride!  Her improvement and positive attitude is awe-inspiring, I hope that when I&#8217;m 87, I have half of her energy and love of life.</p>
+<p>Nana heads back to Newton Street on Monday and while there will be some adjustments, I know she&#8217;s looking forward to getting out of the hospital and back to normal life &#8211; whatever form that may come in.   The Moran women are definitely made of something special &#8211; seeing how much she has rebound in a mere 6 weeks, I can only imagine where she&#8217;ll go from here!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://harringtonfam.com/2014/05/the-nana/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+
+ Served from: harringtonfam.com @ 2022-03-14 02:10:41 by W3 Total Cache -->

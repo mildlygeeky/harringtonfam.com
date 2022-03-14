@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Harringtons &#187; food</title>
+	<atom:link href="http://harringtonfam.com/tag/food-2/feed/" rel="self" type="application/rss+xml" />
+	<link>http://harringtonfam.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 29 Jun 2018 15:23:52 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=3.9.36</generator>
+	<item>
+		<title>Gobble Gobble</title>
+		<link>http://harringtonfam.com/2013/11/gobble-gobble/</link>
+		<comments>http://harringtonfam.com/2013/11/gobble-gobble/#comments</comments>
+		<pubDate>Fri, 29 Nov 2013 02:36:52 +0000</pubDate>
+		<dc:creator><![CDATA[Cara Harrington]]></dc:creator>
+				<category><![CDATA[Food]]></category>
+		<category><![CDATA[Holidays]]></category>
+		<category><![CDATA[Life]]></category>
+		<category><![CDATA[family]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[holidays]]></category>
+		<category><![CDATA[Maggie]]></category>
+
+		<guid isPermaLink="false">http://harringtonfam.com/?p=112</guid>
+		<description><![CDATA[ <a class="read-more" href="http://harringtonfam.com/2013/11/gobble-gobble/"></a>]]></description>
+				<content:encoded><![CDATA[<p>Just in time for the biggest food holiday of the year &#8211; Maggie started on solid foods and she loves it!  So far she&#8217;s enjoyed both butternut squash and sweet potatoes with great success &#8211; I think we have a foodie in our midst!</p>
+<p><a href="http://harringtonfam.com/wp-content/uploads/2013/12/IMG_3268.jpg"><img class="alignnone size-medium wp-image-113" alt="IMG_3268" src="http://harringtonfam.com/wp-content/uploads/2013/12/IMG_3268-300x225.jpg" width="300" height="225" /></a></p>
+<p>&nbsp;</p>
+<p>Hope everyone enjoyed their Thanksgiving dinners as much as she did!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://harringtonfam.com/2013/11/gobble-gobble/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+
+ Served from: harringtonfam.com @ 2022-03-14 02:10:37 by W3 Total Cache -->

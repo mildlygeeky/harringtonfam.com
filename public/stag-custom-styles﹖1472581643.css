@@ -1,0 +1,202 @@
+/* Custom Styles Output */
+body{ background-color: #ffffff; }
+body{ font-family: 'Vollkorn'; }
+
+h1, h2, h3, h4, h5, h6, .heading, .intro-text, .jp-duration{font-family: 'Patua One', Georgia, Cambria, serif;font-weight: normal}
+a, .page-title span {color: #69ae43; }.twitter-feeds span a {color: #69ae43!important; }.stag-tabs li.ui-state-active{ border-color: #69ae43 !important; }button, .button, input[type='submit'], .single-page-navigation a {background-color: #69ae43; }
+/* Custom Post Background Colors and Images */
+
+.post-cover-1349{ background-image: url(wp-content/uploads/2018/06/IMG_7727.jpg); }
+.post-cover-wrap-1349{ background-color: #35eaea; }
+.post-cover-1349{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-1360{ background-image: url(wp-content/uploads/2018/06/IMG_0351.jpg); }
+.post-cover-wrap-1360{ background-color: #8224e3; }
+.post-cover-1360{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-1255{ background-image: url(wp-content/uploads/2017/09/DSC0233.jpg); }
+.post-cover-wrap-1255{ background-color: #2f25ea; }
+.post-cover-1255{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-1232{ background-image: url(wp-content/uploads/2017/07/DSC0046.jpg); }
+.post-cover-wrap-1232{ background-color: #dd3333; }
+.post-cover-1232{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-1181{ background-image: url(wp-content/uploads/2017/06/DSC0391.jpg); }
+.post-cover-wrap-1181{ background-color: #eeee22; }
+.post-cover-1181{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-1177{ background-image: url(wp-content/uploads/2017/06/IMG_8597.jpg); }
+.post-cover-wrap-1177{ background-color: #187a20; }
+.post-cover-1177{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-1111{ background-image: url(wp-content/uploads/2017/01/4-up-on-12-18-16-at-5.13-PM-7.jpg); }
+.post-cover-wrap-1111{ background-color: #dd3333; }
+.post-cover-1111{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-1100{ background-image: url(wp-content/uploads/2016/11/IMG_4889.jpg); }
+.post-cover-wrap-1100{ background-color: #1e73be; }
+.post-cover-1100{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-1069{ background-image: url(wp-content/uploads/2016/11/IMG_1661-e1477963529172.jpg); }
+.post-cover-wrap-1069{ background-color: #e55502; }
+.post-cover-1069{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-wrap-1065{ background-color: #2a2d30; }
+.post-cover-1065{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-932{ background-image: url(wp-content/uploads/2016/09/IMG_1817.jpg); }
+.post-cover-wrap-932{ background-color: #dd9933; }
+.post-cover-932{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-888{ background-image: url(wp-content/uploads/2016/07/IMG_9191.jpg); }
+.post-cover-wrap-888{ background-color: #8224e3; }
+.post-cover-888{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-879{ background-image: url(wp-content/uploads/2016/07/BabyGFinals-8966.jpg); }
+.post-cover-wrap-879{ background-color: #1e73be; }
+.post-cover-879{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-840{ background-image: url(wp-content/uploads/2016/06/DSC0515.jpg); }
+.post-cover-wrap-840{ background-color: #81d742; }
+.post-cover-840{ opacity: 0.7; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70) }
+
+.post-cover-838{ background-image: url(wp-content/uploads/2016/06/IMG_7284-e1466366419268.jpg); }
+.post-cover-wrap-838{ background-color: #7100e2; }
+.post-cover-838{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-763{ background-image: url(wp-content/uploads/2016/05/MaggieFinals-5.jpg); }
+.post-cover-wrap-763{ background-color: #1e73be; }
+.post-cover-763{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-765{ background-image: url(wp-content/uploads/2016/04/IMG_8495-e1461715151371.jpg); }
+.post-cover-wrap-765{ background-color: #8224e3; }
+.post-cover-765{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-737{ background-image: url(wp-content/uploads/2016/03/IMG_1775.jpg); }
+.post-cover-wrap-737{ background-color: #00eaea; }
+.post-cover-737{ opacity: 0.7; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70) }
+
+.post-cover-761{ background-image: url(wp-content/uploads/2015/12/DSC0005.jpg); }
+.post-cover-wrap-761{ background-color: #dd3333; }
+.post-cover-761{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-754{ background-image: url(wp-content/uploads/2015/11/0158.jpg); }
+.post-cover-wrap-754{ background-color: #2a2d30; }
+.post-cover-754{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-wrap-756{ background-color: #2a2d30; }
+.post-cover-756{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-wrap-759{ background-color: #2a2d30; }
+.post-cover-759{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-665{ background-image: url(wp-content/uploads/2015/09/IMG_1008.jpg); }
+.post-cover-wrap-665{ background-color: #eeee22; }
+.post-cover-665{ opacity: 0.75; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=75) }
+
+.post-cover-662{ background-image: url(wp-content/uploads/2015/12/DSC1089.jpg); }
+.post-cover-wrap-662{ background-color: #8224e3; }
+.post-cover-662{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-562{ background-image: url(wp-content/uploads/2015/06/IMG_5611.jpg); }
+.post-cover-wrap-562{ background-color: #276b21; }
+.post-cover-562{ opacity: 0.3; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=30) }
+
+.post-cover-808{ background-image: url(wp-content/uploads/2016/04/IMG_1629.jpg); }
+.post-cover-wrap-808{ background-color: #1e73be; }
+.post-cover-808{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-494{ background-image: url(wp-content/uploads/2015/01/DSC0339.jpg); }
+.post-cover-wrap-494{ background-color: #dd3333; }
+.post-cover-494{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-528{ background-image: url(wp-content/uploads/2015/01/IMG_6930.jpg); }
+.post-cover-wrap-528{ background-color: #42454c; }
+.post-cover-528{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-443{ background-image: url(wp-content/uploads/2015/01/DSC0031.jpg); }
+.post-cover-wrap-443{ background-color: #dda756; }
+.post-cover-443{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-416{ background-image: url(wp-content/uploads/2014/09/0008.jpg); }
+.post-cover-wrap-416{ background-color: #f45370; }
+.post-cover-416{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-402{ background-image: url(wp-content/uploads/2014/08/photo-3.jpg); }
+.post-cover-wrap-402{ background-color: #eded84; }
+.post-cover-402{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-333{ background-image: url(wp-content/uploads/2014/07/DSC0059.jpg); }
+.post-cover-wrap-333{ background-color: #f49aa7; }
+.post-cover-333{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-281{ background-image: url(wp-content/uploads/2014/06/DSC0033.jpg); }
+.post-cover-wrap-281{ background-color: #e9f4ab; }
+.post-cover-281{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-274{ background-image: url(wp-content/uploads/2014/05/photo.jpg); }
+.post-cover-wrap-274{ background-color: #92dde5; }
+.post-cover-274{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-wrap-258{ background-color: #98d66d; }
+.post-cover-258{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-241{ background-image: url(wp-content/uploads/2014/05/DvmnOMnFRWHD2MIOSqM6IjiHOCGIUDHtcQa9d2F_Z_ADeu5o8BJm5X5fEt7RtIaUxaM_f9FupRg-qkSOVZ3jmk.jpg); }
+.post-cover-wrap-241{ background-color: #eded65; }
+.post-cover-241{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-235{ background-image: url(wp-content/uploads/2014/04/photo.png); }
+.post-cover-wrap-235{ background-color: #ea7cba; }
+.post-cover-235{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-220{ background-image: url(wp-content/uploads/2014/04/Capture.jpg); }
+.post-cover-wrap-220{ background-color: #1e73be; }
+.post-cover-220{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-203{ background-image: url(wp-content/uploads/2014/03/2-21-taking-turns-with-the-train-.jpg); }
+.post-cover-wrap-203{ background-color: #81d742; }
+.post-cover-203{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-165{ background-image: url(wp-content/uploads/2014/01/photo-3-1.jpg); }
+.post-cover-wrap-165{ background-color: #dd6666; }
+.post-cover-165{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-139{ background-image: url(wp-content/uploads/2013/12/new_years_eve_header.jpg); }
+.post-cover-wrap-139{ background-color: #8b90a0; }
+.post-cover-139{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-130{ background-image: url(wp-content/uploads/2013/12/IMG_3277.png); }
+.post-cover-wrap-130{ background-color: #999aaf; }
+.post-cover-130{ opacity: 0.4; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=40) }
+
+.post-cover-112{ background-image: url(wp-content/uploads/2013/12/IMG_3268.jpg); }
+.post-cover-wrap-112{ background-color: #9e5f29; }
+.post-cover-112{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-97{ background-image: url(wp-content/uploads/2013/12/IMG_3262.jpg); }
+.post-cover-wrap-97{ background-color: #5d646b; }
+.post-cover-97{ opacity: 0.7; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70) }
+
+.post-cover-107{ background-image: url(wp-content/uploads/2013/12/DSC0223.jpg); }
+.post-cover-wrap-107{ background-color: #dd9933; }
+.post-cover-107{ opacity: 0.5; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50) }
+
+.post-cover-84{ background-image: url(wp-content/uploads/2013/09/DSC0338.jpg); }
+.post-cover-wrap-84{ background-color: #c825ed; }
+.post-cover-84{ opacity: 0.75; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=75) }
+
+.post-cover-53{ background-image: url(wp-content/uploads/2013/07/6xR_XoEtXSfMcVaijv-xBayZLy09blGqWTrY4ljZ_Hc.jpg); }
+.post-cover-wrap-53{ background-color: #f4b2bc; }
+.post-cover-53{ opacity: 0.6; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=60) }
+
+.post-cover-34{ background-image: url(wp-content/uploads/2013/06/IMG_4101.jpg); }
+.post-cover-wrap-34{ background-color: #000000; }
+.post-cover-34{ opacity: 0.8; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80) }
+
+
+
+/* Custom Page Background Colors and Images */
+
+
+
