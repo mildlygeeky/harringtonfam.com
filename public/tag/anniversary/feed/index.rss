@@ -10,8 +10,8 @@
 
 <channel>
 	<title>The Harringtons &#187; anniversary</title>
-	<atom:link href="http://harringtonfam.com/tag/anniversary/feed/" rel="self" type="application/rss+xml" />
-	<link>http://harringtonfam.com</link>
+	<atom:link href="https://harringtonfam.com/tag/anniversary/feed/" rel="self" type="application/rss+xml" />
+	<link>https://harringtonfam.com</link>
 	<description></description>
 	<lastBuildDate>Fri, 29 Jun 2018 15:23:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -20,8 +20,8 @@
 	<generator>https://wordpress.org/?v=3.9.36</generator>
 	<item>
 		<title>5 years?!</title>
-		<link>http://harringtonfam.com/2015/11/5-years/</link>
-		<comments>http://harringtonfam.com/2015/11/5-years/#comments</comments>
+		<link>https://harringtonfam.com/2015/11/5-years/</link>
+		<comments>https://harringtonfam.com/2015/11/5-years/#comments</comments>
 		<pubDate>Fri, 13 Nov 2015 18:47:25 +0000</pubDate>
 		<dc:creator><![CDATA[Cara Harrington]]></dc:creator>
 				<category><![CDATA[Life]]></category>
@@ -31,13 +31,13 @@
 		<category><![CDATA[Patrick]]></category>
 		<category><![CDATA[Wedding]]></category>
 
-		<guid isPermaLink="false">http://harringtonfam.com/?p=754</guid>
-		<description><![CDATA[ <a class="read-more" href="http://harringtonfam.com/2015/11/5-years/"></a>]]></description>
+		<guid isPermaLink="false">https://harringtonfam.com/?p=754</guid>
+		<description><![CDATA[ <a class="read-more" href="https://harringtonfam.com/2015/11/5-years/"></a>]]></description>
 				<content:encoded><![CDATA[<p>Somehow, 5 years of marriage have passed &#8211; between travel, buying a house, and having a child, things have definitely changed from that day back in 2010, yet it still feels like only yesterday!</p>
 <p>Happy anniversary to us!</p>
-<p><a href="http://harringtonfam.com/wp-content/uploads/2015/11/0195.jpg"><img class="alignnone size-medium wp-image-805" src="http://harringtonfam.com/wp-content/uploads/2015/11/0195-300x200.jpg" alt="0195" width="300" height="200" /></a></p>
+<p><a href="https://harringtonfam.com/wp-content/uploads/2015/11/0195.jpg"><img class="alignnone size-medium wp-image-805" src="https://harringtonfam.com/wp-content/uploads/2015/11/0195-300x200.jpg" alt="0195" width="300" height="200" /></a></p>
 ]]></content:encoded>
-			<wfw:commentRss>http://harringtonfam.com/2015/11/5-years/feed/</wfw:commentRss>
+			<wfw:commentRss>https://harringtonfam.com/2015/11/5-years/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
